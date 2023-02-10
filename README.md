@@ -1,6 +1,6 @@
 # Spatially Varying Color Distributions for  Interactive Multi-Label Segmentation
 
-An unofficial **Python** implementation of the paper [Spatially Varying Color Distributions for  Interactive Multi-Label Segmentation](https://vision.in.tum.de/_media/spezial/bib/nieuwenhuis-cremers-pami12.pdf) by Claudia Nieuwenhuis and Daniel Cremers.
+An unofficial **Python** implementation of the paper [Spatially Varying Color Distributions for  Interactive Multi-Label Segmentation](https://vision.in.tum.de/_media/spezial/bib/nieuwenhuis-cremers-pami12.pdf) by Claudia Nieuwenhuis and Daniel Cremers. This implementation was done in collaboration with [@unlikelymaths](https://github.com/unlikelymaths).
 
 <img src="https://github.com/drgHannah/SVCD/blob/main/img/kea.jpg" width = 250px> <img src="https://github.com/drgHannah/SVCD/blob/main/img/kea_scribble.png" width = 250px> <img src="https://github.com/drgHannah/SVCD/blob/main/img/kea_seg.png" width = 250px>
 
